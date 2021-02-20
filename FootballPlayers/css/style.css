@@ -43,7 +43,7 @@ h2 {
     border-radius: 0px 20px;
 }
 
-div.player {
+div {
 	padding: 10px;
     margin: 8px;
     display: inline-block;
@@ -51,7 +51,7 @@ div.player {
     border-radius: 15px;
 }
 
-div.player img {
+div img {
 	width: 220px;
 	border-radius: 15px 0px;
 }
